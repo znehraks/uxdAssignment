@@ -63,7 +63,7 @@ const Menu = ({ open, setOpen, ...props }) => {
       </MenuList>
       <MenuList
         onClick={() => setOpen(false)}
-        to="/AIQuestion"
+        to="/AboutUs"
         tabIndex={tabIndex}
       >
         <RedSpan>RANKING</RedSpan>
