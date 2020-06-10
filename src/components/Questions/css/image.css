@@ -1,0 +1,68 @@
+@-webkit-keyframes twinkle {
+	0% {
+        opacity:0
+    }
+    50%{
+        opacity:1
+    }
+    100%{
+        opacity:0;
+    }
+}
+
+@keyframes twinkle {
+	0% {
+        opacity:0
+    }
+    50%{
+        opacity:1
+    }
+    100%{
+        opacity:0;
+    }
+}
+
+.flavor1 {
+	background: url('../imgs/flavor.png') no-repeat -63px 0;
+	width: 55px;
+	height: 81px;
+}
+
+.flavor2 {
+	background: url('../imgs/flavor.png') no-repeat -127px 0;
+	width: 55px;
+	height: 81px;
+}
+
+.flavor3 {
+	background: url('../imgs/flavor.png') no-repeat -190px -151px;
+	width: 54px;
+	height: 82px;
+}
+
+.flavor1_twinkle{
+	background: url('../imgs/flavor.png') no-repeat -63px 0;
+	width: 55px;
+	height: 81px;
+	animation-name: twinkle;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+}
+
+.flavor2_twinkle {
+	background: url('../imgs/flavor.png') no-repeat -127px 0;
+	width: 55px;
+	height: 81px;
+	animation-name: twinkle;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+}
+
+.flavor3_twinkle {
+	background: url('../imgs/flavor.png') no-repeat -190px -151px;
+	width: 54px;
+	height: 82px;
+	animation-name: twinkle;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+}

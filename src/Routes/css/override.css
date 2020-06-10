@@ -1,0 +1,23 @@
+#fp-nav {
+  position: fixed;
+  top: 155px;
+}
+
+.fp-controlArrow.fp-prev {
+  right: 15px;
+  display: block;
+  background-size: cover;
+  background-position: right 0;
+  cursor: pointer;
+  border-width: 15px 15px 15px 0;
+  border-color: transparent #000 transparent transparent;
+}
+.fp-controlArrow.fp-next {
+  right: 15px;
+  display: block;
+  background-size: cover;
+  background-position: right 0;
+  cursor: pointer;
+  border-width: 15px 0 15px 15px;
+  border-color: transparent transparent transparent #000;
+}

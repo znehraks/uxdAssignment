@@ -1,0 +1,81 @@
+body {
+  font-family: arial, helvetica, "Noto Sans KR";
+}
+
+h2 {
+  font-size: 5em;
+  text-align: center;
+  color: #ddd;
+  font-weight: 700;
+}
+
+.section1 {
+  color: #ddd;
+  background-image: url("../images/genz01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section2 {
+  color: #ddd;
+  background-image: url("../images/genz04.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section3 {
+  color: #ddd;
+  background-image: url("../images/genz02.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section4 {
+  color: #ddd;
+  background-image: url("../images/genz03.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fp-section {
+  text-align: center;
+}
+.fp-controlArrow.fp-prev {
+  right: 15px;
+  display: block;
+  background-size: cover;
+  background-position: right 0;
+  cursor: pointer;
+  border-width: 15px 15px 15px 0;
+  border-color: transparent #000 transparent transparent;
+}
+.fp-controlArrow.fp-next {
+  right: 15px;
+  display: block;
+  background-size: cover;
+  background-position: right 0;
+  cursor: pointer;
+  border-width: 15px 0 15px 15px;
+  border-color: transparent transparent transparent #000;
+}
+.fp-slidesNav.fp-bottom {
+  bottom: 120px;
+}
+
+button {
+  padding: 0.93em 1.87em;
+  background: #f43030;
+  border-radius: 15px;
+  border-color: transparent;
+  display: block;
+  color: #ddd;
+  margin: 0 auto;
+  cursor: pointer;
+  font-size: 2em;
+}
+
+/* .Qsection1{
+		background: -webkit-gradient(linear, top left, bottom left, from(#ec1e1e), to(#5e1616));
+		background: -webkit-linear-gradient(#000 ,#ec1e1e, #cc1d1d, 	#5e1616, #000);
+		background: linear-gradient(#000 , #ec1e1e, #cc1d1d, 	#5e1616,  #000);
+	} */
