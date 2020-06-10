@@ -30,7 +30,6 @@ const Backdrop = styled.div`
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(${bg});
   background-size: cover;
   background-repeat: no-repeat;
   animation: ${Animation} 1s linear 1;
@@ -99,7 +98,7 @@ export default () => {
     <Wrapper>
       <Backdrop />
       <Article>
-        <BigSpan>Draw your own tea!</BigSpan>
+        <BigSpan>Find your own style!</BigSpan>
         <LittleSpan>Join us now!</LittleSpan>
         <AuthButton to="/">Login with Google</AuthButton>
       </Article>
