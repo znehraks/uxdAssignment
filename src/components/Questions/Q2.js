@@ -179,7 +179,7 @@ export default ({ bgColor2, setBgColor2, Q2Answer, setQ2Answer }) => {
     <>
       <QRedSpan>ORDER</QRedSpan>
       <QSubSpan>
-        Customize #02 /<QSubGraySpan> 05</QSubGraySpan>
+        Customize #02 /<QSubGraySpan> 04</QSubGraySpan>
       </QSubSpan>
       <QSpan>Q2.{Q}</QSpan>
       <QDetailSpan>

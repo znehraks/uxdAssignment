@@ -127,7 +127,7 @@ export default ({ Q3Answer, setQ3Answer, opa, setOpa }) => {
     <>
       <QRedSpan>ORDER</QRedSpan>
       <QSubSpan>
-        Customize #03 /<QSubGraySpan> 05</QSubGraySpan>
+        Customize #03 /<QSubGraySpan> 04</QSubGraySpan>
       </QSubSpan>
       <QSpan>Q3.{Q}</QSpan>
       <QDetailSpan>원하는 옷의 대략적인 분위기를 선택해주세요</QDetailSpan>
