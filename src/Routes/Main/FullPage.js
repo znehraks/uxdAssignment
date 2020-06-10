@@ -196,6 +196,8 @@ export default () => {
                 </Article>
                 <Article>
                   <H3>ABOUT US</H3>
+                  <H3> </H3>
+                  <H3>By. JungMin You</H3>
                 </Article>
               </RowWrapper>
             </div>

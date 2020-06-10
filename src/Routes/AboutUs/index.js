@@ -47,6 +47,7 @@ export default () => {
       <Article>
         <BigSpan>Not Found</BigSpan>
         <BigSpan>We make your style more gorgeous</BigSpan>
+        <BigSpan>By. JungMin You</BigSpan>
       </Article>
     </Wrapper>
   );
