@@ -178,10 +178,10 @@ export default () => {
                 <img src={content}></img>
               </div>
               <div className="slide">
-                <h2>PALETTEA안양범계점</h2>
+                <h2>empty</h2>
               </div>
               <div className="slide">
-                <h2>Slide 2.3</h2>
+                <h2>empty</h2>
               </div>
             </div>
             <div className="section section3">
