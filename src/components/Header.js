@@ -8,6 +8,7 @@ import { Burger, Menu } from "./HamburgerMenu";
 
 const Header = styled.header`
   width: 100%;
+  height: 11.5vh;
   border: 0;
   position: fixed;
   top: 0;
