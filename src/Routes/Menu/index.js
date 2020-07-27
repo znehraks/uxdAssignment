@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 
 const Wrapper = styled.div`
   position: absolute;
-  left:0;
-  top:0;
+  left: 0;
+  top: 0;
   width: 33%;
   margin: 0 auto;
   margin-top: 125px;
